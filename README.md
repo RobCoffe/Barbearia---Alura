@@ -9,9 +9,9 @@ A funcionalidade deste projeto será a capacidade de criação de paginas, forma
 
 (***The functionality of this project will be the ability to create pages, forms and spreadsheets on a web page..**)
 
-As technologias utilizadas serão JavaScrypt, HTML e CSS.
+As technologias utilizadas serão HTML e CSS.
 
-(***The technologies used will be JavaScrypt, HTML and CSS..***)
+(***The technologies used will be HTML and CSS..***)
 
 
 Status do projeto em desenvolvimento.
