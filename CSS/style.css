@@ -1,4 +1,9 @@
 /* Css da pagina Produtos*/
+*{
+    padding: 0;
+    margin: 0%;
+}
+
 body{
     font-family: 'Montserrat', sans-serif;
 }
