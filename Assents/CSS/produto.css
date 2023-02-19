@@ -1,3 +1,9 @@
+main{
+
+    background: linear-gradient( rgb(74, 78, 74), rgb(74, 78, 74) );
+    color:#000000;
+}
+
 .produtos{
     width: 940px;
     margin: 0 auto;
@@ -12,7 +18,7 @@
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid #000000;
+    border: 2px solid #FFFFFF;
     border-radius: 10px;
 }
 
